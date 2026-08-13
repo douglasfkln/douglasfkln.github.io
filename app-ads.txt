@@ -1,8 +1,5 @@
-# app-ads.txt — Marcador de Pontos
-# Referência: https://support.google.com/admob/answer/9363762
-#
-# ATENÇÃO: substitua pub-0000000000000000 pelo seu ID de editor real
-# (AdMob → Configurações → ID do editor) ANTES de commitar este arquivo.
-# Publicar com o ID de exemplo é PIOR do que não ter arquivo nenhum.
+# app-ads.txt — Marcador de Pontos (AdMob)
+# Formato: https://support.google.com/admob/answer/9363762
+# Descoberto pelo campo "Site" da ficha da loja: https://douglasfkln.github.io
 
 google.com, pub-3589419509654187, DIRECT, f08c47fec0942fa0
